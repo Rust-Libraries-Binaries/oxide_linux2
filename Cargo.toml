@@ -1,0 +1,9 @@
+[package]
+name = "oxide_linux2"
+version = "1.0.2" 
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2021"
+description = "This Rust library has been deprecated - Nov 5 2024. See sysinfo_linux instead."
+
+
+[dependencies]
