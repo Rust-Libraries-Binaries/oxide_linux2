@@ -1,9 +1,11 @@
 [package]
 name = "oxide_linux2"
 version = "1.0.2" 
-authors = ["Ben Santora <bensatlantik@gmail.com>"]
+authors = ["Ben Santora <your_email@example.com>"]
 edition = "2021"
 description = "This Rust library has been deprecated - Nov 5 2024. See sysinfo_linux instead."
+license = "MIT"
+publish = true
 
-
-[dependencies]
+[lib]
+path = "" # This makes it clear there's no code associated
