@@ -1,6 +1,6 @@
 [package]
 name = "oxide_linux2"
-version = "0.1.5"
+version = "0.1.6"
 authors = ["Ben Santora <bensatlantik@gmail.com>"]
 edition = "2018"
 description = "A Rust library for retrieving system information on Linux, including kernel version, system uptime, available memory, CPU information, load averages, and disk usage."
