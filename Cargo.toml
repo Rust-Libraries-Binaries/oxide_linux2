@@ -1,0 +1,12 @@
+[package]
+name = "oxide_linux2"
+version = "0.1.5"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2018"
+
+license = "MIT"
+repository = "https://github.com/bensatlantik/oxide_linux2"
+
+[dependencies]
+thiserror = "1.0"
+nix = "0.23.0"

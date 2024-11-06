@@ -1,0 +1,21 @@
+# Ignore the target directory and Cargo.lock
+/target
+/Cargo.lock
+
+# Build directory
+/build/
+
+# IntelliJ IDEA specific files
+.idea/
+/*.iml
+
+# Visual Studio Code specific files
+.vscode/
+
+# MacOS specific files
+.DS_Store
+
+# Backup files
+*~
+/target
+/Cargo.lock
