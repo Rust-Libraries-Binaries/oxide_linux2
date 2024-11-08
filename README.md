@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 # oxide_linux2
 
 `oxide_linux2` is a Rust library that provides utilities for retrieving system information on Linux. It allows users to easily fetch details like kernel version, system uptime, available memory, CPU information, load averages, and disk usage.
@@ -71,11 +75,4 @@ fn main() {
 This project is licensed under the MIT License
 
 ## Author
-Ben Santora <bensatlantik@gmail.com>
-
-## Donate
-https://bensatlantik.github.io/
-
-
-
-
+Ben Santora 
